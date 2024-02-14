@@ -9,7 +9,7 @@ body {
 }
 
 main#logIn {
-  background: url(/Images/Gradient\ Background.jpg) center/cover no-repeat;
+  background: url(../Images/Gradient\ Background.jpg) center/cover no-repeat;
   height: 100vh;
   display: flex;
   align-items: center;
